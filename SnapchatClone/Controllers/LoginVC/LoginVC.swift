@@ -160,6 +160,9 @@ class LoginVC: UIViewController  {
     }
     
     /* PART 3B START (Hint: Define a function, that's used elsewhere in PART 3 CODE) */
+    func changeColors(){
+        //vcdelegate is blue or gold. 
+    }
     
     /* PART 3B FINISH */
     
